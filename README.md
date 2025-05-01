@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**EuNumShei/EuNumShei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Guilherme Teixeira, and I'm a 3rd year Bachelor Student in Informatics and Computer Engineering in FEUP.
 
-Here are some ideas to get you started:
+This readme will serve to present the projects I've developed along my journey.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| UC | Name | Description | Grade | Tech Stack |
+|----|------|-------------|-------|------------|
+| AED | [Schedule Manager]() | The goal of this project was to develop a terminal capable of analyzing, displaying and manipulating the schedules of the different students and UCs in a given course. | 16.2 | C++ |
+| AED | [Flight Manager]() | In this project we developed a program capable of analyzing and managing an air traffic network | 17.2 | C++ |
+| LDTS | [Tank Tactics]() | For this UC we developed a singleplayer tank shooting game, alongside the testing for said game | 11.9 | Java |
+| DA | [Water Network Manager]() | The goal of this project was to use several algorithms in order to analyze and display the most efficient information regarding a water network | 19.55 | C++ |
+| DA | [Routing Algorithm for Ocean Shipping and Urban Deliveries]() | In this project we explored the TSP problem, implementing different algorithms and known approachs to the problem | 13.82 | C++ |
+| ESOF | [BiteQ]() | For this UC we developed an app capable of helping students with informations regarding the different FEUP eating areas | 16.3 | Dart/Flutter, Firebase |
+| LCOM | [Head Soccer]() | This project regarded the development of a soccer game in Minix | 19.33 | C |
+| LTW | [Smartphone Shop]() | The goal of this project was to create a website destined for the resale of used smartphones | 15.5 | HTML, CSS, JavaScript, PHP, SQL |
+| IPC | [EnergyTracker]() | This project required the design of an app destined for tracking and help managing the user's energy | 16.4 | - |
+| LBAW | [GlintHub]() | For this UC we created a social network capable of connecting various users in diverse ways | 16.8 | PHP/Laravel, PostgreSQL |
+| MPSAC | [Mini-projetos de sistemas de aprendizagem e controlo](https://github.com/pchmelo/MPSAC_Project) | In this project we trained a tested a systems control model using supervised learning | 19.0 | - |
+| PFL | [DA in Haskell]() | The goal of this project was to use algorithms to solve shortest-path and TSP problems | 18.7 | Haskell |
+| PFL | [Byte 7]() | In this project we developed the Byte 7 game in Prolog, including menus and the full gameplay and rules of the game | 14.4 | Prolog |
+| RCOM | [File transfer via Serial Port]() | This project required developing a data link protocol, culminating in transferring files between 2 computers through a serial port. | 18.8 | C |
+| RCOM | [Computer Network Building and FTP Protocol]() | This project can be divided in 2 parts, building and configuring a computer network, and develop an FTP download program, which was to transfer files through our network. | 19.0 | C |
