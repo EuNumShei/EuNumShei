@@ -6,8 +6,8 @@ This readme will serve to present the projects I've developed along my journey.
 
 | UC | Name | Description | Grade | Tech Stack |
 |----|------|-------------|-------|------------|
-| AED | [Schedule Manager](https://github.com/EuNumShei/Project2AED) | The goal of this project was to develop a terminal capable of analyzing, displaying and manipulating the schedules of the different students and UCs in a given course. | 16.2 | C++ |
-| AED | [Flight Manager](https://github.com/EuNumShei/Project1AED) | In this project we developed a program capable of analyzing and managing an air traffic network | 17.2 | C++ |
+| AED | [Schedule Manager](https://github.com/EuNumShei/Project1AED) | The goal of this project was to develop a terminal capable of analyzing, displaying and manipulating the schedules of the different students and UCs in a given course. | 16.2 | C++ |
+| AED | [Flight Manager](https://github.com/EuNumShei/Project2AED) | In this project we developed a program capable of analyzing and managing an air traffic network | 17.2 | C++ |
 | LDTS | [Tank Tactics](https://github.com/EuNumShei/ProjectLDTS) | For this UC we developed a singleplayer tank shooting game, alongside the testing for said game | 11.9 | Java |
 | DA | [Water Network Manager](https://github.com/EuNumShei/ProjectDA) | The goal of this project was to use several algorithms in order to analyze and display the most efficient information regarding a water network | 19.55 | C++ |
 | DA | [Routing Algorithm for Ocean Shipping and Urban Deliveries](https://github.com/EuNumShei/Project2DA) | In this project we explored the TSP problem, implementing different algorithms and known approachs to the problem | 13.82 | C++ |
