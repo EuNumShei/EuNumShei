@@ -22,11 +22,3 @@ This readme will serve to present the projects I've developed along my journey.
 | RCOM | [File transfer via Serial Port](https://github.com/EuNumShei/ProjectRCOM) | This project required developing a data link protocol, culminating in transferring files between 2 computers through a serial port. | 18.8 | C |
 | RCOM | [Computer Network Building and FTP Protocol](https://github.com/EuNumShei/ProjectRCOM2) | This project can be divided in 2 parts, building and configuring a computer network, and develop an FTP download program, which was to transfer files through our network. | 19.0 | C |
 | FSI | [CTF and Logbooks](https://github.com/EuNumShei/FSI) | This repository contains all the CTF and Logbook reports along the UC | 20.0 | - |
-
-<div align="center">
-    <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=EuNumShei&layout=compact&langs_count=6&theme=aura">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=EuNumShei&layout=compact&langs_count=6&theme=flag-india">
-    <img height="180em" alt="My Top Programming Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EuNumShei&layout=compact&langs_count=6">
-      </picture>
-</div>
